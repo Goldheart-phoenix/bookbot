@@ -21,3 +21,17 @@ Once you've downloaded the files, you need books for the bot to read. The requir
 - Once there, run main.py using Python 3.
 - The bookbot will count how many words there are in your book.
 - The bookbot will also count how many times each character is used, sorted by most frequent to least frequent.
+
+## Patch Notes
+### 1.0.0
+- Created a bot that reads and analyzes Mary Shelley's "Frankenstein".
+
+## Wanted Features
+- The bot greets the user.
+- Modular Reports
+- - The bot asks the user to type in the name of a book in books/.
+- - The bot looks up and runs a report for the book entered.
+- - The bot returns an error message if the book isn't found.
+- Book List
+- - The bot also informs the user about the "list books" query.
+- - When "list books" is entered, print the name of each book in the bot's library.
