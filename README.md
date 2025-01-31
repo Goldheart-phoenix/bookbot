@@ -10,7 +10,7 @@ Credit to [Boot.dev](boot.dev) for the courses and guided project.
 ## Setup
 This bot is designed to run in Linux.
 
-Once you've downloaded the files, you need books for the bot to read. The required additions to your directory will be.
+Once you've downloaded the files, you need books for the bot to read. The required additions to your directory will be:
 
 - A books/ directory, go ahead and create one!
 - .txt files with book text in them. The book used when creating this bot was Mary Shelley's Frankenstein, which you can access [here.](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt) Simply copy all of the text and paste it into a file called "frankenstein.txt."
